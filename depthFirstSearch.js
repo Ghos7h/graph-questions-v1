@@ -29,4 +29,4 @@ const recurrDepthFirstSearch= (graph, source) => {
     }
 }
 
-recurrDepthFirstSearch(graph, 'a'); // abdfce
+recurrDepthFirstSearch(graph, 'a'); // acebdf
